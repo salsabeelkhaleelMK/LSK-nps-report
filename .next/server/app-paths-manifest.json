@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/opportunities/[id]/page": "app/opportunities/[id]/page.js",
+  "/opportunities/page": "app/opportunities/page.js",
+  "/page": "app/page.js",
+  "/reports/nps/[id]/page": "app/reports/nps/[id]/page.js",
+  "/reports/nps/page": "app/reports/nps/page.js"
+}

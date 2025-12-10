@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/opportunities/[id]/page": "/opportunities/[id]",
+  "/opportunities/page": "/opportunities",
+  "/page": "/",
+  "/reports/nps/[id]/page": "/reports/nps/[id]",
+  "/reports/nps/page": "/reports/nps"
+}
