@@ -72,9 +72,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$LSK$2d$nps$2d$report$2f$node
 ;
 ;
 const metadata = {
-    title: 'v0 App',
-    description: 'Created with v0',
-    generator: 'v0.app',
+    title: 'lsk-nps-report',
+    description: 'lsk-nps-report',
+    generator: 'cursor and salsabeel khaleel',
     icons: {
         icon: '/favicon.png'
     }
